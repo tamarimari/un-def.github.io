@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sample.com/service/service1/</loc>
+    <loc>https://www.corp.un-def.com/service/service1/</loc>
     <lastmod>2024-01-02T09:00:00+06:00</lastmod>
   </url><url>
-    <loc>https://www.sample.com/</loc>
+    <loc>https://www.corp.un-def.com/</loc>
     <lastmod>2024-01-04T09:00:00+06:00</lastmod>
   </url><url>
-    <loc>https://www.sample.com/service/service2/</loc>
+    <loc>https://www.corp.un-def.com/service/service2/</loc>
     <lastmod>2024-01-04T09:00:00+06:00</lastmod>
   </url><url>
-    <loc>https://www.sample.com/service/</loc>
+    <loc>https://www.corp.un-def.com/service/</loc>
     <lastmod>2023-01-05T08:00:00+06:00</lastmod>
   </url><url>
-    <loc>https://www.sample.com/service/service3/</loc>
+    <loc>https://www.corp.un-def.com/service/service3/</loc>
     <lastmod>2022-01-03T09:00:00+06:00</lastmod>
   </url><url>
-    <loc>https://www.sample.com/categories/</loc>
+    <loc>https://www.corp.un-def.com/categories/</loc>
   </url><url>
-    <loc>https://www.sample.com/tags/</loc>
+    <loc>https://www.corp.un-def.com/tags/</loc>
   </url><url>
-    <loc>https://www.sample.com/contact/</loc>
+    <loc>https://www.corp.un-def.com/contact/</loc>
   </url>
 </urlset>
